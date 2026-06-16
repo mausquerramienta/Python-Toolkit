@@ -21,7 +21,7 @@ This index represents the logical progression of the projects. Click on any dire
 | # | Project Name | Description |
 | :--- | :--- | :--- |
 | **01** | [`Name-Creator`](./01-name-creator) | String manipulation and interactive user inputs. |
-| **02** | [`Commission-Calculator`](./02-commission-calculator) | Mathematical operations, variable casting, and formatted outputs. |
+| **02** | [`Commission-Calculator`](./02-commission-calculator) | Variables, data casting, mathematical operators and f-string formatting. |
 | **03** | [`Text-Analyzer`](./03-text-analyzer) | Complex string parsing, list/dictionary management, and data indexing. |
 | **04** | [`Guess-The-Number`](./04-guess-the-number) | Implementation of the `random` library, `while` loops, and complex logic flow. |
 
