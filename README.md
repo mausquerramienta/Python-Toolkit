@@ -23,7 +23,7 @@ This index represents the logical progression of the projects. Click on any dire
 | **01** | [`Name-Creator`](./01-name-creator) | String manipulation and interactive user inputs. |
 | **02** | [`Commission-Calculator`](./02-commission-calculator) | Variables, data casting, mathematical operators and f-string formatting. |
 | **03** | [`Text-Analyzer`](./03-text-analyzer) | Complex string parsing, data indexing, and text manipulation methods. |
-| **04** | [`Guess-The-Number`](./04-guess-the-number) | Implementation of the `random` library, `while` loops, and complex logic flow. |
+| **04** | [`Guess-The-Number`](./04-guess-the-number) | Implementation of the `random` library, `while` loops, and control flow logic. |
 
 ---
 *Note: Each directory contains its own `README.md` with detailed information about the specific logic and libraries used for that build.*
