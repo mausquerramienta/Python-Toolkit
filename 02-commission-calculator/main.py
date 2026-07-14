@@ -1,7 +1,6 @@
-# Day 2 Project
+# Calculate 13% commission
 # Ask for name
 # Ask for sales amount
-# Calculate 13% commission
 
 print("-" * 40)
 print("COMMISSION CALCULATOR")

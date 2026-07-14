@@ -1,5 +1,5 @@
-# Day 4 Project
 # Guess the number
+
 from random import randint
 
 print("=" * 45)
